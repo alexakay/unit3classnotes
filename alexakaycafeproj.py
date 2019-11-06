@@ -1,3 +1,4 @@
+
 import random #alows the random element to be used in the program
 ran_menu = random.randint(1,3) #uses the random element to generate a random number between 1 and 3
 print("Welcome to the Greenwood Cafe calorie & credit counter.")
